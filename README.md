@@ -60,7 +60,7 @@
      .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       │  👤 USERNAME : MehmudHub                      │
    MMMMMMMM'   `"MMMMM"""""""MMMM""`  'MMMMMMMM    │  🎂 AGE      : 18+                            │
    MMMMMMMMM                           MMMMMMMMM   │  🌍 LOCATION : Bangladesh 🇧🇩                  │
- MMMMMMMMMM:                         :MMMMMMMMMM   │  💼 ROLE     : Full-Stack Developer           │
+ MMMMMMMMMM:                         :MMMMMMMMMM   │  💼 ROLE     : Termux Script Dev              │
 .MMMMMMMMMM                           MMMMMMMMMM.  │  🎯 FOCUS    : Termux • Linux • Shell         │
 MMMMMMMMM"                             "MMMMMMMMM  │  📬 TELEGRAM : @SmMehmudTg18                  │
 MMMMMMMMM                               MMMMMMMMM  │  ✉️ EMAIL    : smmehmudgm18@gmail.com         │
